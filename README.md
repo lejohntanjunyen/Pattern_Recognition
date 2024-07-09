@@ -1,8 +1,9 @@
 # Pattern_Recognition
-# Logo Detection
-# 32 Brands (Logos)
-# Python Development (Could convert to MATLAB)
-# https://github.com/tadowney/logo_detection/tree/main/data
+## Logo Detection
+## 32 Brands (Logos)
+## Python Development (Could convert to MATLAB)
+## https://github.com/tadowney/logo_detection/tree/main/data
+## https://www.kaggle.com/code/sushovansaha9/xception-flickr27-brand-logo-detection
 
 # Things to Do (Coding)
 1. Extract and Load Data (Flickr32 Images, Flickr32 Labels, Flickr32 BBox)
