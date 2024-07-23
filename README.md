@@ -31,8 +31,19 @@
 2. Model Implementation and validation
 - a. Methods
 - b. Dataset Preparation
+  - Cropping
   - Preprocessing
+    - Padding
+    - Resize Image
+    - Normalise Image
+    - Convert to array
+    - Label Encoder
+  - Split Train Test Images
+    - Augment training images
 - c. Model implementation
+    - CNN Model
+    - CNN Model + BiLSTM
+    - ResNet Model
 - e. Analysis and Recommendations
 3. References
 
