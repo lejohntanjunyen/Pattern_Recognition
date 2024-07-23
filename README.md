@@ -10,7 +10,7 @@
 ## DATA HERE: 
  - https://www.kaggle.com/datasets/sushovansaha9/flickr-logos-27-dataset/data
 
-# Things to Do (Coding)
+# Coding Process Flow
 1. Extract and Load Data (Flickr32 Images, Flickr32 Labels, Flickr32 BBox)
 2. Map Data and Label (Flickr32 Images, Flickr32 Labels, Flickr32 BBox)
 3. PreProcessing (Cropping Image, Image Augmentation)
@@ -22,22 +22,19 @@
 9. Optimization (Hyper Parameter Tuning, [TBD])
 10. Deployment and Integration (Gradio / StreamLit) [Web-interface for users to upload images to use the pattern recognition model]
 
-# Architecture of CNN Model (William's domain)
-1. Input Layer: 
-2. Hidden Layer 1: 
-3. Hidden Layer 2: 
-4. Hidden Layer 3: 
-5. Output Layer: 27
-
 # Things to Do (Documentation)
-
-# Roles 
+## Roles 
 1. William
-     - (6 [CNN])
+     - CNN Modelling
+     - CNN Modelling + BiLSTM
    
 3. Maadh (Away in August)
-     - (6 [ResNet50], 10)
+     - ResNet Modelling
+     - Streamlit GUI Deployment and Integration
    
 5. Jun-Yen
-     - (1-5) [Need to enhance the checking on invalid images]
+     - Extraction
+     - PreProcessing
+     - Splitting Data
+     - Image Augmentation
    
