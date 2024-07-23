@@ -23,6 +23,20 @@
 10. Deployment and Integration (Gradio / StreamLit) [Web-interface for users to upload images to use the pattern recognition model]
 
 # Things to Do (Documentation)
+1. Literature Review
+- a. Abstract
+- b. Introduction
+- c. Research Objectives
+- d. Related Literature Reviews
+2. Model Implementation and validation
+- a. Methods
+- b. Dataset Preparation
+  - Preprocessing
+- c. Model implementation
+- e. Analysis and Recommendations
+3. References
+
+
 ## Roles 
 1. William
      - CNN Modelling
