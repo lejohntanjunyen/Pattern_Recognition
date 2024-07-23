@@ -5,7 +5,7 @@
 ## Info Pack
  - Inspiration on Assignment: https://github.com/tadowney/logo_detection/tree/main/data
  - Kaggle Dataset Used: https://www.kaggle.com/code/sushovansaha9/xception-flickr27-brand-logo-detection
- - Google Document for Documentation: https://docs.google.com/document/d/1I_s13iLa6ADVmLj9WHLz7BGEd9pUAs6Es3NnQ2rIDNg/edit
+ - Team's Word Document for Documentation: https://cloudmails-my.sharepoint.com/:w:/r/personal/tp068254_mail_apu_edu_my/_layouts/15/doc2.aspx?sourcedoc=%7B8ABD00AA-FEAA-48A0-B20E-40F42A338061%7D&file=PR%20assignment.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1
    
 ## DATA HERE: 
  - https://www.kaggle.com/datasets/sushovansaha9/flickr-logos-27-dataset/data
