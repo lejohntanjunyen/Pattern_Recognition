@@ -3,6 +3,9 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 
+# To run this file, use the following: streamlit run main.py
+# I suggest entering src and running it from there, so the path to the model is correct.
+
 # Load the model from .h5 file
 try:
     model = tf.keras.models.load_model('../models/resnet9.keras', compile=True )
