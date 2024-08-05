@@ -1,7 +1,7 @@
 # Pattern_Recognition
 ## Logo Detection
 ## 27 Brands (Logos)
-## Python Development (Could convert to MATLAB)
+
 ## Info Pack
  - Inspiration on Assignment: https://github.com/tadowney/logo_detection/tree/main/data
  - Kaggle Dataset Used: https://www.kaggle.com/code/sushovansaha9/xception-flickr27-brand-logo-detection
