@@ -6,15 +6,15 @@ from PIL import Image
 # To run this file, use the following: streamlit run main.py
 # I suggest entering src and running it from there, so the path to the model is correct.
 
-# Load the model from .h5 file
+# Load the model from keras file
 try:
-    model = tf.keras.models.load_model('../models/resnet9.keras', compile=True )
+    model = tf.keras.models.load_model('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/src/resnet.keras', compile=True )
     st.write("Model loaded successfully.")
 except Exception as e:
     st.write("Error loading model:", e)
 
 
-unique_classes = np.load('../models/classes.npy')
+unique_classes = np.load('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/src/class_order.npy')
 
 class_index_to_label = {index: label for index, label in enumerate(unique_classes)}
 
