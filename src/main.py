@@ -8,13 +8,13 @@ from PIL import Image
 
 # Load the model from keras file
 try:
-    model = tf.keras.models.load_model('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/src/resnet.keras', compile=True )
+    model = tf.keras.models.load_model('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/models/resnet9.keras', compile=True )
     st.write("Model loaded successfully.")
 except Exception as e:
     st.write("Error loading model:", e)
 
 
-unique_classes = np.load('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/src/class_order.npy')
+unique_classes = np.load('/Users/lejohntanjunyen/Documents/Pattern_Recognition/Pattern_Recognition/models/classes.npy')
 
 class_index_to_label = {index: label for index, label in enumerate(unique_classes)}
 
